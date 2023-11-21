@@ -1,0 +1,14 @@
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\bin\Debug\net7.0\Arbeitszeitrechner.exe
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\bin\Debug\net7.0\Arbeitszeitrechner.deps.json
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\bin\Debug\net7.0\Arbeitszeitrechner.runtimeconfig.json
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\bin\Debug\net7.0\Arbeitszeitrechner.dll
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\bin\Debug\net7.0\Arbeitszeitrechner.pdb
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\obj\Debug\net7.0\Arbeitszeitrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\obj\Debug\net7.0\Arbeitszeitrechner.AssemblyInfoInputs.cache
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\obj\Debug\net7.0\Arbeitszeitrechner.AssemblyInfo.cs
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\obj\Debug\net7.0\Arbeitszeitrechner.csproj.CoreCompileInputs.cache
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\obj\Debug\net7.0\Arbeitszeitrechner.dll
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\obj\Debug\net7.0\refint\Arbeitszeitrechner.dll
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\obj\Debug\net7.0\Arbeitszeitrechner.pdb
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\obj\Debug\net7.0\Arbeitszeitrechner.genruntimeconfig.cache
+C:\Users\PascalHofmann\vscode\Arbeitszeitrechner\Arbeitszeitrechner\obj\Debug\net7.0\ref\Arbeitszeitrechner.dll
